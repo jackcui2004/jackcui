@@ -1,0 +1,7 @@
+echo“#jackcui”>>README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git分支-M主
+git远程添加原点https://github.com/jackcui2004/jackcui.git
+ git主要成分
